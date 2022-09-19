@@ -13,6 +13,7 @@ Is measuring completeness even possible?
 
 By collecting and combining information from a huge number of sources, however, I believe the finished project will be the most comprehensive publicly available dataset.
 
+## Stages/todo
 
 1. Link and blacklist collection
 - Gathering of onion links from (many!) various current and historical sources
