@@ -27,6 +27,8 @@ By collecting and combining information from a huge number of sources, however, 
 - Blacklisting of all pornographic URLS to ensure no potential CSAM sites are included in link collection
 - Site catagorisation and collation
 
+## Analytics
+
 There are many possible data-points of interest:
 * Number of phishing links per Dark Net Market (DNM) or other onion service
 * Site obscurity based on occurence in link sources
