@@ -27,6 +27,8 @@ By collecting and combining information from a huge number of sources, however, 
 - Blacklisting of all pornographic URLS to ensure no potential CSAM sites are included in link collection
 - Site categorisation and collation
 
+4.+ ???
+
 ## Analytics
 
 There are many possible data-points of interest:
